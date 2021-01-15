@@ -10,6 +10,7 @@ Not: Yalnızca Frontend Developer ilanları eklenebilir. Sıralama tarihe göre(
 
 |Tarih      | Şirket        | Şehir      | Pozisyon   | Başvuru Linki / Mail Adresi        | Dil/Teknoloji   |
 |-----------|---------------|------------|-------------------------------|-----------------|-----------------|
+|16.01.2020 | Heraklet | İstanbul/Ataköy | Mid Level Frontend Developer | https://cutt.ly/FjTyweB| HTML5, CSS3, SASS, JavaScript, ES6, React |
 |19.07.2018 | Akinon | İstanbul/YTU Davutpasa | Senior Frontend Developer | https://bit.ly/2KB6RjG | HTML5, CSS3, JavaScript, ES6, Redux, React |
 |27.02.2018 | Trendyol | İstanbul | Software Development Engineer - Node.js | https://goo.gl/SV73xR | JavaScript, node.js, Ecmascript6, Mocha, Chai | 
 |27.02.2018 | Trendyol | İstanbul | Arayüz Geliştirme Uzmanı | https://goo.gl/xtJhyQ | HTML5,CSS3, STYLUS, JavaScript, Webpack, SASS |
